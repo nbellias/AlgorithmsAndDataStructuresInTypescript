@@ -2,6 +2,7 @@
   "name": "algorithmsanddatastructuresintypescript",
   "version": "1.0.0",
   "description": "Algorithms and Data structures in Typescript",
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "test": "jest"

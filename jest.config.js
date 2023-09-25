@@ -1,9 +1,7 @@
-"use strict";
 /**
  * For a detailed explanation regarding each configuration property, visit:
  * https://jestjs.io/docs/configuration
  */
-Object.defineProperty(exports, "__esModule", { value: true });
 const config = {
     // All imported modules in your tests should be mocked automatically
     // automock: false,
@@ -142,5 +140,5 @@ const config = {
     // Whether to use watchman for file crawling
     // watchman: true,
 };
-exports.default = config;
+export default config;
 //# sourceMappingURL=jest.config.js.map
